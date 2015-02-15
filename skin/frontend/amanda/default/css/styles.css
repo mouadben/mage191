@@ -3394,7 +3394,6 @@ a.skip-link {
     color: #636363;
     text-transform: uppercase;
     line-height: 30px;
-
   }
 
   #header-account li:last-child a,
@@ -3578,7 +3577,7 @@ a.skip-link {
     /* Level 1+ */
   }
   .nav-primary a.level0 {
-    padding: 0 25px;
+    padding: 0 12px;
   }
   .nav-primary li.level0,
   .nav-primary a.level0 {
@@ -3590,6 +3589,7 @@ a.skip-link {
   .nav-primary a:hover,
   .nav-primary li:hover > a {
     color: #6d675d;
+      background-color: #FFFFFF;
   }
   .nav-primary .menu-active {
     z-index: 200;
@@ -3603,14 +3603,14 @@ a.skip-link {
     /* Height of ".nav-primary a.level0" */
     z-index: 10;
     width: 200px;
-    /*padding-left: 10px;
-    padding-right: 10px;*/
+    margin-left: 10px;
+    margin-right: 10px;
     display: none;
     /* Hide until displayed. */
   }
   .nav-primary li.level1 ul {
-    left: 60px;
-    top: 15px;
+    left: 170px;
+    top: 5px;
   }
   .nav-primary li.level0 ul.level0.position-test {
     display: block;
