@@ -1,0 +1,17 @@
+rewriterules.map
+.buildpath
+.project
+.settings
+.externalToolBuilders
+/.idea
+/app/etc/local.xml
+/app/etc/local.xml.phpunit
+/media
+/var
+/php_error.log
+/nbproject/
+*~
+
+/var/session
+/var/session/sess_bj0qc040iopi7eiu7lmq5uh3h2
+*

@@ -30,13 +30,7 @@
 
 <div class="header-language-background">
     <div class="header-language-container">
-        <div class="store-language-container">
-            <?php echo $this->getChildHtml('store_language') ?>
-        </div>
-
-        <?php echo $this->getChildHtml('currency_switcher') ?>
-
-        <p class="welcome-msg"><?php echo $this->getChildHtml('welcome') ?> <?php echo $this->getAdditionalHtml() ?></p>
+       <p class="welcome-msg"><?php echo $this->getChildHtml('welcome') ?> <?php echo $this->getAdditionalHtml() ?></p>
     </div>
 </div>
 
@@ -82,14 +76,14 @@
 
         <!-- Navigation -->
 
-        <div id="header-nav" class="skip-content">
-            <?php echo $this->getChildHtml('topMenu') ?>
-        </div>
-
         <!-- Search -->
 
         <div id="header-search" class="skip-content">
             <?php echo $this->getChildHtml('topSearch') ?>
+            <div id="language">
+                <?php echo $this->getChildHtml('store_language') ?>
+                <?php echo $this->getChildHtml('currency_switcher') ?>
+            </div>
         </div>
 
         <!-- Account -->
@@ -99,6 +93,9 @@
         </div>
     </div>
 </header>
+<div id="header-nav" class="top_links">
+    <?php echo $this->getChildHtml('topMenu') ?>
+</div>
 
 
 <?php echo $this->getChildHtml('topContainer'); ?>
