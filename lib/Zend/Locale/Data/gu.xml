@@ -4630,7 +4630,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">લિબ્યન દિનાર</displayName>
 				<displayName count="other">લિબ્યન દિનાર</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>મોરોક્કન દિરામ</displayName>
 				<displayName count="one">મોરોક્કનદિરામ</displayName>
 				<displayName count="other">મોરોક્કનદિરામ</displayName>

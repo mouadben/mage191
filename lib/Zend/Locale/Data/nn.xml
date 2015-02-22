@@ -2626,7 +2626,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">libysk dinar</displayName>
 				<displayName count="other">libyske dinarar</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>marokkansk dirham</displayName>
 				<displayName count="one">marokkansk dirham</displayName>
 				<displayName count="other">marokkanske dirham</displayName>

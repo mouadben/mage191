@@ -3909,7 +3909,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">Ливия динары</displayName>
 				<displayName count="other">Ливия динары</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>Марокко дирхамы</displayName>
 				<displayName count="one">Марокко дирхамы</displayName>
 				<displayName count="other">Марокко дирхамы</displayName>

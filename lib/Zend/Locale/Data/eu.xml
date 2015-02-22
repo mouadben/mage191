@@ -3125,7 +3125,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">Libiako dinar</displayName>
 				<displayName count="other">Libiako dinar</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>Marokoko dirhama</displayName>
 				<displayName count="one">Marokoko dirham</displayName>
 				<displayName count="other">Marokoko dirham</displayName>

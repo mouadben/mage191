@@ -4306,7 +4306,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">Liviya dinarı</displayName>
 				<displayName count="other">Liviya dinarı</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>Mərakeş Dirhəmi</displayName>
 				<displayName count="one">Mərakeş dirhəmi</displayName>
 				<displayName count="other">Mərakeş dirhəmi</displayName>

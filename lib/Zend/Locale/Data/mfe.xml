@@ -654,7 +654,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 			<currency type="LYD">
 				<displayName>dinar libien</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>dirham marokin</displayName>
 			</currency>
 			<currency type="MGA">

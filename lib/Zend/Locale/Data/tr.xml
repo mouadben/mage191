@@ -4303,7 +4303,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">Libya dinarı</displayName>
 				<displayName count="other">Libya dinarı</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>Fas Dirhemi</displayName>
 				<displayName count="one">Fas dirhemi</displayName>
 				<displayName count="other">Fas dirhemi</displayName>

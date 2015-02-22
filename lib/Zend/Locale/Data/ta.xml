@@ -4635,7 +4635,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">லிபியன் தினார்</displayName>
 				<displayName count="other">லிபியன் தினார்</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>மொரோக்கோ திர்ஹாம்</displayName>
 				<displayName count="one">மொரோக்கோ திர்ஹாம்</displayName>
 				<displayName count="other">மொரோக்கோ திர்ஹாம்</displayName>

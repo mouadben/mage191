@@ -5518,7 +5518,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">dinar libyen</displayName>
 				<displayName count="other">dinars libyens</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>dirham marocain</displayName>
 				<displayName count="one">dirham marocain</displayName>
 				<displayName count="other">dirhams marocains</displayName>

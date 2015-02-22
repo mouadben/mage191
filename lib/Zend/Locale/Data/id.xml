@@ -5065,7 +5065,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName>Dinar Libya</displayName>
 				<displayName count="other">Dinar Libya</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>Dirham Maroko</displayName>
 				<displayName count="other">Dirham Maroko</displayName>
 			</currency>

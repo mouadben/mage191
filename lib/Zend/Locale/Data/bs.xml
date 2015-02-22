@@ -4287,7 +4287,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="many">Libijskih dinara</displayName>
 				<displayName count="other">libijskih dinara</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>Marokanski dirham</displayName>
 				<displayName count="one">marokanska dirama</displayName>
 				<displayName count="few">marokanske dirame</displayName>

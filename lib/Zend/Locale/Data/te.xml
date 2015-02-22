@@ -4687,7 +4687,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">లిబియన్ దీనార్</displayName>
 				<displayName count="other">లిబియన్ దీనార్‌లు</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>మోరోకన్ దిర్హుమ్</displayName>
 				<displayName count="one">మోరోకన్ దిర్హుమ్</displayName>
 				<displayName count="other">మోరోకన్ దిర్హుమ్‌లు</displayName>

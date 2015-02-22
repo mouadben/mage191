@@ -4668,7 +4668,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">लिबियाचा दिनार</displayName>
 				<displayName count="other">लिबियाचा दिनार</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>मोरोक्को दिरहॅम</displayName>
 				<displayName count="one">मोरोक्को दिरहॅम</displayName>
 				<displayName count="other">मोरोक्को दिरहॅम</displayName>

@@ -4668,7 +4668,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">Lībijas dinārs</displayName>
 				<displayName count="other">Lībijas dināri</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>Marokas dirhēms</displayName>
 				<displayName count="zero">Marokas dirhēmi</displayName>
 				<displayName count="one">Marokas dirhēms</displayName>

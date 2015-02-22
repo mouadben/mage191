@@ -4525,7 +4525,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">Libyan dinaari</displayName>
 				<displayName count="other">Libyan dinaaria</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>Marokon dirhami</displayName>
 				<displayName count="one">Marokon dirhami</displayName>
 				<displayName count="other">Marokon dirhamia</displayName>

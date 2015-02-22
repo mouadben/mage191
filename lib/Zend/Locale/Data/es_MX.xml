@@ -3991,7 +3991,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="other" draft="contributed">dinares libios</displayName>
 				<symbol draft="contributed">LYD</symbol>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName draft="contributed">dírham marroquí</displayName>
 				<displayName count="one" draft="contributed">dírham marroquí</displayName>
 				<displayName count="other" draft="contributed">dírhams marroquíes</displayName>

@@ -3001,7 +3001,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">Libyan dinar</displayName>
 				<displayName count="other">Libyan dinars</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>Moroccan Dirham</displayName>
 				<displayName count="one">Moroccan dirham</displayName>
 				<displayName count="other">Moroccan dirhams</displayName>

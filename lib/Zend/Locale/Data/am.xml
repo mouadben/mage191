@@ -4308,7 +4308,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">የሊቢያ ዲናር</displayName>
 				<displayName count="other">የሊቢያ ዲናር</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>የሞሮኮ ዲርሀም</displayName>
 				<displayName count="one">የሞሮኮ ዲርሀም</displayName>
 				<displayName count="other">የሞሮኮ ዲርሀም</displayName>

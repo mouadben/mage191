@@ -4758,7 +4758,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">líbiai dínár</displayName>
 				<displayName count="other">líbiai dínár</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>marokkói dirham</displayName>
 				<displayName count="one">marokkói dirham</displayName>
 				<displayName count="other">marokkói dirham</displayName>

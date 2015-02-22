@@ -6613,7 +6613,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName>利比亞第納爾</displayName>
 				<displayName count="other">利比亞第納爾</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>摩洛哥迪拉姆</displayName>
 				<displayName count="other">摩洛哥迪拉姆</displayName>
 			</currency>

@@ -2389,7 +2389,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 			<currency type="LYD">
 				<displayName draft="contributed">dinar libic</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName draft="contributed">dirham marocan</displayName>
 			</currency>
 			<currency type="MAF">

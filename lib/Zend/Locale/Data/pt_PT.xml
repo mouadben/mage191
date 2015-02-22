@@ -4533,7 +4533,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">Dinar líbio</displayName>
 				<displayName count="other">Dinares líbios</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>Dirham marroquino</displayName>
 				<displayName count="one">Dirham marroquino</displayName>
 				<displayName count="other">Dirhams marroquinos</displayName>

@@ -3759,7 +3759,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">Liibüa dinaar</displayName>
 				<displayName count="other">Liibüa dinaari</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>Maroko dirhem</displayName>
 				<displayName count="one">Maroko dirhem</displayName>
 				<displayName count="other">Maroko dirhemit</displayName>

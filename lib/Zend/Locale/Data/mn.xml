@@ -3995,7 +3995,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">ливи доллар</displayName>
 				<displayName count="other">ливи доллар</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>Марокко дирхам</displayName>
 				<displayName count="one">марокко дирхам</displayName>
 				<displayName count="other">марокко дирхам</displayName>

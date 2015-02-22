@@ -3992,7 +3992,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 			<currency type="LYD">
 				<displayName>لیبیائی دینار</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>مراکشی درہم</displayName>
 				<displayName count="one">مراکشی درہم</displayName>
 				<displayName count="other">مراکشی درہم</displayName>

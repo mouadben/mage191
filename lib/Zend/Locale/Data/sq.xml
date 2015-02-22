@@ -3643,7 +3643,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">dinar libian</displayName>
 				<displayName count="other">dinarë libian</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>Dirham maroken</displayName>
 				<displayName count="one">dirham maroken</displayName>
 				<displayName count="other">dirhamë maroken</displayName>

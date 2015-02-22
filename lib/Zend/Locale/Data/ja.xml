@@ -6878,7 +6878,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName>リビア ディナール</displayName>
 				<displayName count="other">リビア ディナール</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>モロッコ ディルハム</displayName>
 				<displayName count="other">モロッコ ディルハム</displayName>
 			</currency>

@@ -5000,7 +5000,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">लीबियाई दिनार</displayName>
 				<displayName count="other">लीबियाई दिनार</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>मोरक्को दिरहम</displayName>
 				<displayName count="one">मोरक्को दिरहम</displayName>
 				<displayName count="other">मोरक्को दिरहम</displayName>

@@ -4596,7 +4596,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="many">libyjského dináru</displayName>
 				<displayName count="other">libyjských dinárů</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>marocký dinár</displayName>
 				<displayName count="one">marocký dinár</displayName>
 				<displayName count="few">marocké dináry</displayName>

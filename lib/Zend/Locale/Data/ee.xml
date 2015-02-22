@@ -4729,7 +4729,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">libyaga dinar</displayName>
 				<displayName count="other">libyaga dinar</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>morokoga dirham</displayName>
 				<displayName count="one">morokoga dirham</displayName>
 				<displayName count="other">morokoga dirham</displayName>

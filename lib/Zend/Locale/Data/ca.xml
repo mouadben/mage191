@@ -4521,7 +4521,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">dinar libi</displayName>
 				<displayName count="other">dinars libis</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>dírham marroquí</displayName>
 				<displayName count="one">dírham marroquí</displayName>
 				<displayName count="other">dírhams marroquins</displayName>

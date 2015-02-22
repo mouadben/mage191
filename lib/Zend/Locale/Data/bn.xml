@@ -4876,7 +4876,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">লিবিয়ান ডলার</displayName>
 				<displayName count="other">লিবিয়ান ডলার</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>মোরোক্কান দিরহাম</displayName>
 				<displayName count="one">মোরোক্কান দিরহাম</displayName>
 				<displayName count="other">মোরোক্কান দিরহাম</displayName>

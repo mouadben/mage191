@@ -1851,7 +1851,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="many">dinar Libia</displayName>
 				<displayName count="other">dinar Libia</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>dirham Maroko</displayName>
 				<displayName count="one">dirham Maroko</displayName>
 				<displayName count="two">zirham Maroko</displayName>

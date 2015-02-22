@@ -4094,7 +4094,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">Libysk dinar</displayName>
 				<displayName count="other">Libyske dinarer</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>Marokkansk dirham</displayName>
 				<displayName count="one">Marokkansk dirham</displayName>
 				<displayName count="other">Marokkanske dirham</displayName>

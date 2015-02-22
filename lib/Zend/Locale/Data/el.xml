@@ -5070,7 +5070,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">δηνάριο Λιβύης</displayName>
 				<displayName count="other">δηνάρια Λιβύης</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>Ντιράμ Μαρόκου</displayName>
 				<displayName count="one">ντιράμ Μαρόκου</displayName>
 				<displayName count="other">ντιράμ Μαρόκου</displayName>

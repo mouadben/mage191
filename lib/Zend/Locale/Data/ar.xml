@@ -5884,7 +5884,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="other" draft="contributed">دينار ليبي</displayName>
 				<symbol>د.ل.‏</symbol>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>درهم مغربي</displayName>
 				<displayName count="zero" draft="contributed">درهم مغربي</displayName>
 				<displayName count="one" draft="contributed">درهم مغربي</displayName>

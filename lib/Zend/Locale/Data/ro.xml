@@ -4180,7 +4180,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="few">dinari libieni</displayName>
 				<displayName count="other">dinari libieni</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>dirham marocan</displayName>
 				<displayName count="one">dirham marocan</displayName>
 				<displayName count="few">dirhami marocani</displayName>

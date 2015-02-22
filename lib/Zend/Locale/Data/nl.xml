@@ -5681,7 +5681,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">Libische dinar</displayName>
 				<displayName count="other">Libische dinar</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>Marokkaanse dirham</displayName>
 				<displayName count="one">Marokkaanse dirham</displayName>
 				<displayName count="other">Marokkaanse dirham</displayName>

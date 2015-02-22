@@ -4372,7 +4372,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">dinar libio</displayName>
 				<displayName count="other">dinares libios</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>dírham marroquí</displayName>
 				<displayName count="one">dírham marroquí</displayName>
 				<displayName count="other">dírhams marroquíes</displayName>

@@ -4557,7 +4557,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">Либијски динар</displayName>
 				<displayName count="other">Либијски динар</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>Марокански Дирхам</displayName>
 				<displayName count="one">Марокански Дирхам</displayName>
 				<displayName count="other">Марокански Дирхам</displayName>

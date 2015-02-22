@@ -3883,7 +3883,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="many">Dinar Libya</displayName>
 				<displayName count="other">Dinar Libya</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>Dirham Moroco</displayName>
 				<displayName count="zero">Dirham Moroco</displayName>
 				<displayName count="one">Dirham Moroco</displayName>

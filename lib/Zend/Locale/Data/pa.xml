@@ -3990,7 +3990,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">ਲੀਬੀਅਨ ਦਿਨਾਰ</displayName>
 				<displayName count="other">ਲੀਬੀਅਨ ਦਿਨਾਰ</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>ਮੋਰੱਕਨ ਦਿਰਹਾਮ</displayName>
 				<displayName count="one">ਮੋਰੱਕਨ ਦਿਰਹਾਮ</displayName>
 				<displayName count="other">ਮੋਰੱਕਨ ਦਿਰਹਾਮ</displayName>

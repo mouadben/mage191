@@ -2595,7 +2595,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">Liviya dinori</displayName>
 				<displayName count="other">Liviya dinori</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>Marokash dirhami</displayName>
 				<displayName count="one">Marokash dirhami</displayName>
 				<displayName count="other">Marokash dirhami</displayName>

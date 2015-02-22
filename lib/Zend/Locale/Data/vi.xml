@@ -4228,7 +4228,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName>Dinar Libi</displayName>
 				<displayName count="other">dinar Libi</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>Dirham Ma-rốc</displayName>
 				<displayName count="other">dirham Ma-rốc</displayName>
 			</currency>

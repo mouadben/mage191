@@ -2705,7 +2705,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 			<currency type="LYD">
 				<displayName>i-Libyan Dinar</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>i-Moroccan Dirham</displayName>
 			</currency>
 			<currency type="MDL">

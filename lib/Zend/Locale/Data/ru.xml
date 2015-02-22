@@ -5976,7 +5976,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="many" draft="contributed">ливийских динаров</displayName>
 				<displayName count="other" draft="contributed">ливийского динара</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>Марокканский дирхам</displayName>
 				<displayName count="one" draft="contributed">марокканский дирхам</displayName>
 				<displayName count="many" draft="contributed">марокканских дирхамов</displayName>

@@ -4210,7 +4210,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">Libyscher Dinar</displayName>
 				<displayName count="other">Libysche Dinar</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>Marokkanischer Dirham</displayName>
 				<displayName count="one">Marokkanischer Dirham</displayName>
 				<displayName count="other">Marokkanische Dirham</displayName>

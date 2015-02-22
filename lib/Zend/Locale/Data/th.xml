@@ -6469,7 +6469,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName>ดีนาร์ลิเบีย</displayName>
 				<displayName count="other">ดีนาร์ลิเบีย</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>ดีแรห์มโมร็อกโก</displayName>
 				<displayName count="other">ดีแรห์มโมร็อกโก</displayName>
 			</currency>

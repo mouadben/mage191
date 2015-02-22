@@ -5712,7 +5712,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="many">лівійських динарів</displayName>
 				<displayName count="other">лівійського динара</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>марокканський дирхам</displayName>
 				<displayName count="one">марокканський дирхам</displayName>
 				<displayName count="few">марокканські дирхами</displayName>

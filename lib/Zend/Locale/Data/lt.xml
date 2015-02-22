@@ -5494,7 +5494,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="many">Libijos dinaro</displayName>
 				<displayName count="other">Libijos dinarų</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>Maroko dirhamas</displayName>
 				<displayName count="one">Maroko dirhamas</displayName>
 				<displayName count="few">Maroko dirhamai</displayName>

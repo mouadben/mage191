@@ -2747,7 +2747,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">Lüübische Dinar</displayName>
 				<displayName count="other">Lüübischi Dinar</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>Marokkanische Dirham</displayName>
 				<displayName count="one">Marokkanische Dirham</displayName>
 				<displayName count="other">Marokkanischi Dirham</displayName>

@@ -4055,7 +4055,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one" draft="contributed">dinaro libico</displayName>
 				<displayName count="other" draft="contributed">dinari libici</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>Dirham Marocchino</displayName>
 				<displayName count="one" draft="contributed">dirham marocchino</displayName>
 				<displayName count="other" draft="contributed">Dirham marocchini</displayName>

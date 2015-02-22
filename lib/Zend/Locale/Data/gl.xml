@@ -3365,7 +3365,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 			<currency type="LYD">
 				<displayName>Dinar libio</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName draft="contributed">Dirham marroquí</displayName>
 			</currency>
 			<currency type="MAF">

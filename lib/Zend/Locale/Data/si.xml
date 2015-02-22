@@ -3853,7 +3853,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 			<currency type="LYD">
 				<displayName>ලිබියානු ඩිනාර්</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>මොරොක්කෝ ඩිර්හැම්</displayName>
 				<displayName count="one">මොරොක්කෝ ඩිර්හැම්</displayName>
 				<displayName count="other">මොරොක්කෝ ඩිර්හැම්</displayName>

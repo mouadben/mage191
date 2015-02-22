@@ -3987,7 +3987,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">Լիբիական դինար</displayName>
 				<displayName count="other">Լիբիական դինար</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>Մարոկական դիրհամ</displayName>
 				<displayName count="one">Մարոկական դիրհամ</displayName>
 				<displayName count="other">Մարոկական դիրհամ</displayName>

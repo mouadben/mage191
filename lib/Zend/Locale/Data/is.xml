@@ -3765,7 +3765,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">líbískur denari</displayName>
 				<displayName count="other">líbískir denarar</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>Marokkóskt dírham</displayName>
 				<displayName count="one">marokkóskt dírham</displayName>
 				<displayName count="other">marokkósk dírhöm</displayName>

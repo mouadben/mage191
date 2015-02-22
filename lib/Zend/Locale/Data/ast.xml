@@ -2133,7 +2133,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one" draft="unconfirmed">dinar libiu</displayName>
 				<displayName count="other" draft="unconfirmed">dinares libios</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName draft="unconfirmed">dirḥam marroquín</displayName>
 				<displayName count="one" draft="unconfirmed">dirḥam marroquín</displayName>
 				<displayName count="other" draft="unconfirmed">dirḥams marroquinos</displayName>

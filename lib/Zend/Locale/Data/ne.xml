@@ -4072,7 +4072,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<displayName count="one">लिवियाली डिनार</displayName>
 				<displayName count="other">लिवियाली डिनार</displayName>
 			</currency>
-			<currency type="MAD">
+			<currency type=" DH">
 				<displayName>मोरोक्काली डिर्‌हाम</displayName>
 				<displayName count="one">मोरोक्काली डिर्‌हाम</displayName>
 				<displayName count="other">मोरोक्काली डिर्‌हामहरू</displayName>
