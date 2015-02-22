@@ -501,7 +501,7 @@ a {
 }
 
 a:hover {
-  color: #61b952;
+  color: #69d057;
   text-decoration: underline;
 }
 
@@ -871,7 +871,7 @@ body:not(.customer-account) .block:first-child .block-title {
 .block-account li a:hover,
 .block-cms-menu li a:hover {
   color: #6d675d;
-    background-color: #61b952;
+    background-color: #69d057;
 }
 
 /* ============================================ *
@@ -936,7 +936,7 @@ body:not(.customer-account) .block:first-child .block-title {
 .cart-table .product-cart-actions .button:hover,
 #co-shipping-method-form .buttons-set .button:hover,
 .footer .button:hover {
-  background: #61b952;
+  background: #69d057;
   cursor: pointer;
 }
 .button:active,
@@ -1761,7 +1761,7 @@ a.button:hover {
 }
 
 .price-box .price {
-  color: #6d675d;
+  color: red;
   font-size: 16px;
 }
 
@@ -3403,21 +3403,25 @@ a.skip-link {
 
   .no-touch #header-account a:hover,
   .no-touch .nav-primary a:hover {
-    background-color: #f4f4f4;
+    background-color: orange;
     text-decoration: none;
   }
 }
 .top_links{
-    background-color:#61b952;
+    background-color:#69d057;
 
 }
 .top_links li a {
     color: #ffffff;
-    background-color: #61b952;
+    background-color: #69d057;
+}
+ .level0 ul li a {
+    color: #ffffff;
+    background-color: #8e8c8d;/*#61b952;*/
 }
 .top_links ul  {
     color: #ffffff;
-    background-color: #61b952;
+    background-color: #69d057;
 }
 .account-cart-wrapper {
   position: absolute;
@@ -3562,19 +3566,20 @@ a.skip-link {
   }
   .nav-primary li.menu-active > a,
   .nav-primary li.sub-menu-active > a {
-    color: #6d675d;
+    color: pink;
   }
 }
 /* ============================================ *
  * Large Viewports - Dropdown Menu
  * ============================================ */
 @media only screen and (min-width: 771px) {
-  .nav-primary {
+  .nav-primary a{
     /* Default styles for 1+ drop-down menus */
     /* Level 2+ */
     /* Class for js to add briefly to evaluate element positioning. */
     /* Correct menus that will hang off the page (class added by js) */
     /* Level 1+ */
+      padding-left:20px;
   }
   .nav-primary a.level0 {
     padding: 0 12px;
@@ -3588,8 +3593,8 @@ a.skip-link {
   }
   .nav-primary a:hover,
   .nav-primary li:hover > a {
-    color: #6d675d;
-      background-color: #FFFFFF;
+    color: #ffffff;
+      background-color: #6d675d;
   }
   .nav-primary .menu-active {
     z-index: 200;
@@ -3609,8 +3614,8 @@ a.skip-link {
     /* Hide until displayed. */
   }
   .nav-primary li.level1 ul {
-    left: 170px;
-    top: 5px;
+    left: 186px;
+    top: 0px;
   }
   .nav-primary li.level0 ul.level0.position-test {
     display: block;
@@ -4889,7 +4894,7 @@ p.product-name a:hover {
     margin-top: -5px;
   }
   .block-layered-nav .block-subtitle--filter:hover {
-    background-color: #61b952;
+    background-color: #69d057;
     color: #FFFFFF;
   }
   .block-layered-nav .block-subtitle--filter.active:after {
@@ -8905,7 +8910,7 @@ div.paypal-logo span > img {
   position: relative;
 }
 .slideshow-pager span:hover:before {
-  background-color: #61b952;
+  background-color: #69d057;
 }
 .slideshow-pager span.cycle-pager-active:before {
   background-color: #297aa3;
@@ -8963,7 +8968,7 @@ div.paypal-logo span > img {
   left: 10px;
 }
 .slideshow-prev:hover:before {
-  border-color: transparent #61b952 transparent transparent;
+  border-color: transparent #69d057 transparent transparent;
 }
 
 .slideshow-next {
@@ -8976,7 +8981,7 @@ div.paypal-logo span > img {
   right: 10px;
 }
 .slideshow-next:hover:before {
-  border-color: transparent transparent transparent #61b952;
+  border-color: transparent transparent transparent #69d057;
 }
 
 .cycle-caption {
@@ -9588,7 +9593,7 @@ div.paypal-logo span > img {
   text-align: left;
 }
 .search-autocomplete ul li:hover {
-  color: #61b952;
+  color: #69d057;
 }
 .search-autocomplete ul li.selected {
   background-color: #6d675d;
