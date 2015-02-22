@@ -91,7 +91,7 @@ class Mage_Core_Model_Locale_Config
         'MOP' /*Macao Pataca*/,     'MKD' /*Macedonian Denar*/, 'MGA' /*Malagasy Ariary*/,          'MWK' /*Malawi Kwacha*/,
         'MYR' /*Malaysian Ringgit*/,'MVR' /*Maldive Islands Rufiyaa*/,'LSM' /*Maloti*/,             'MRO' /*Mauritania Ouguiya*/,
         'MUR' /*Mauritius Rupee*/,  'MXN' /*Mexican Peso*/,     'MDL' /*Moldovan Leu*/,             'MNT' /*Mongolian*/,
-        'MAD' /*Moroccan Dirham*/,  'MZN' /*Mozambique Metical*/,'MMK' /*Myanmar Kyat*/,            'NAD' /*Namibia Dollar*/,
+        'DH' /*Moroccan Dirham*/,  'MZN' /*Mozambique Metical*/,'MMK' /*Myanmar Kyat*/,            'NAD' /*Namibia Dollar*/,
         'NPR' /*Nepalese Rupee*/,   'ANG' /*Netherlands Antillan Guilder*/,'YTL' /*New Turkish Lira*/,'NZD' /*New Zealand Dollar*/,
         'NIC' /*Nicaraguan Cordoba*/,'NGN' /*Nigerian Naira*/,  'KPW' /*North Korean Won*/,         'NOK' /*Norwegian Krone*/,
         'OMR' /*Oman Rial*/,        'PKR' /*Pakistan Rupee*/,   'PAB' /*Panamanian Balboa*/,        'PGK' /*Papua New Guinea Kina*/,
