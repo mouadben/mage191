@@ -501,7 +501,7 @@ a {
 }
 
 a:hover {
-  color: #69d057;
+  color: #c59e35;
   text-decoration: underline;
 }
 
@@ -871,7 +871,7 @@ body:not(.customer-account) .block:first-child .block-title {
 .block-account li a:hover,
 .block-cms-menu li a:hover {
   color: #6d675d;
-    background-color: #69d057;
+    background-color: #c59e35;
 }
 
 /* ============================================ *
@@ -936,7 +936,7 @@ body:not(.customer-account) .block:first-child .block-title {
 .cart-table .product-cart-actions .button:hover,
 #co-shipping-method-form .buttons-set .button:hover,
 .footer .button:hover {
-  background: #69d057;
+  background: #c59e35;
   cursor: pointer;
 }
 .button:active,
@@ -1622,9 +1622,9 @@ a.button:hover {
 }
 
 .messages .success-msg li {
-  color: black;
+  color: #ffffff;
   border-left: 5px solid #11b400;
-  background-color: #eff5ea;
+  background-color: #e26703;
 }
 
 .messages .success-msg li:before {
@@ -1761,8 +1761,15 @@ a.button:hover {
 }
 
 .price-box .price {
-  color: red;
+  color: #ffffff;
   font-size: 16px;
+    font-weight: bold;
+    border-radius: 0.25em;
+    background: linear-gradient(to bottom, #dc5033 0%, #dc5022 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    padding: 5px;
+}
+.my-price{
+    color: yellow;
 }
 
 .price-box .price,
@@ -3408,12 +3415,12 @@ a.skip-link {
   }
 }
 .top_links{
-    background-color:#69d057;
+    background-color:#c59e35;
 
 }
 .top_links li a {
     color: #ffffff;
-    background-color: #69d057;
+    background-color: #c59e35;
 }
  .level0 ul li a {
     color: #ffffff;
@@ -3421,7 +3428,7 @@ a.skip-link {
 }
 .top_links ul  {
     color: #ffffff;
-    background-color: #69d057;
+    background-color: #c59e35;
 }
 .account-cart-wrapper {
   position: absolute;
@@ -4894,7 +4901,7 @@ p.product-name a:hover {
     margin-top: -5px;
   }
   .block-layered-nav .block-subtitle--filter:hover {
-    background-color: #69d057;
+    background-color: #c59e35;
     color: #FFFFFF;
   }
   .block-layered-nav .block-subtitle--filter.active:after {
@@ -5046,7 +5053,7 @@ p.product-name a:hover {
 .product-view .product-shop .price-box .regular-price .price,
 .product-view .product-shop .price-box .special-price .price,
 .product-view .product-shop .price-box .full-product-price .price {
-  color: #6d675d;
+
   font-size: 24px;
 }
 .product-view .product-shop .price-box .special-price .price-label {
@@ -8910,7 +8917,7 @@ div.paypal-logo span > img {
   position: relative;
 }
 .slideshow-pager span:hover:before {
-  background-color: #69d057;
+  background-color: #c59e35;
 }
 .slideshow-pager span.cycle-pager-active:before {
   background-color: #297aa3;
@@ -8968,7 +8975,7 @@ div.paypal-logo span > img {
   left: 10px;
 }
 .slideshow-prev:hover:before {
-  border-color: transparent #69d057 transparent transparent;
+  border-color: transparent #c59e35 transparent transparent;
 }
 
 .slideshow-next {
@@ -8981,7 +8988,7 @@ div.paypal-logo span > img {
   right: 10px;
 }
 .slideshow-next:hover:before {
-  border-color: transparent transparent transparent #69d057;
+  border-color: transparent transparent transparent #c59e35;
 }
 
 .cycle-caption {
@@ -9593,7 +9600,7 @@ div.paypal-logo span > img {
   text-align: left;
 }
 .search-autocomplete ul li:hover {
-  color: #69d057;
+  color: #c59e35;
 }
 .search-autocomplete ul li.selected {
   background-color: #6d675d;
